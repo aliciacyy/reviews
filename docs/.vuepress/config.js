@@ -1,11 +1,12 @@
 import { defaultTheme } from "vuepress";
 
 export default {
+  base: '/reviews/',
   theme: defaultTheme({
-    base: '/reviews/',
     logo: '/logo.png',
     lang: "en-US",
     title: "Reviews",
+    contributors: false,
     description: "Bite-sized reviews of hotels and stuff",
     sidebar: [
       {
