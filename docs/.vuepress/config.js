@@ -6,6 +6,7 @@ export default {
     logo: '/logo.png',
     lang: "en-US",
     title: "Reviews",
+    contributors: false,
     description: "Bite-sized reviews of hotels and stuff",
     sidebar: [
       {
