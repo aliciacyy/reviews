@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-14b3515a","path":"/hotels/ParkRoyal.html","title":"PARKROYAL COLLECTION Pickering","lang":"en-US","frontmatter":{"lang":"en-US","title":"PARKROYAL COLLECTION Pickering"},"headers":[],"git":{"updatedTime":1679673471000},"filePathRelative":"hotels/ParkRoyal.md"}');export{e as data};
