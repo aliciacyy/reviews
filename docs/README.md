@@ -1,7 +1,6 @@
 ---
 lang: en-US
 title: Reviews
-description: Description of this page
 ---
 
 # Reviews
