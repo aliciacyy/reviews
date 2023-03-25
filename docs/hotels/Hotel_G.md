@@ -5,6 +5,8 @@ title: Hotel G
 
 # Hotel G 
 
+![img](/hotel_g.jpg)
+
 ## Details
 ### Length of stay 
 2023-03-06 - 2023-03-08 (2 nights)
