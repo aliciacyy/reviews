@@ -2,7 +2,7 @@ import { defaultTheme } from "vuepress";
 
 export default {
   base: '/reviews/',
-  head: [['link', { rel: "shortcut icon", href: "/favicon.ico"}]],
+  head: [['link', { rel: "shortcut icon", href: "/reviews/favicon.ico"}]],
   theme: defaultTheme({
     logo: '/logo.png',
     lang: "en-US",
