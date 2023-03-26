@@ -9,7 +9,7 @@ title: Hotel G
 
 ## Details
 ### Length of stay 
-2023-03-06 - 2023-03-08 (2 nights)
+Mar 2023 (2 nights)
 
 ### Room type 
 Good Room with King Bed
