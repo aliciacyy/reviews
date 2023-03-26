@@ -15,7 +15,7 @@ Mar 2023 (1 night)
 Deluxe room
 
 ### Cost 
-SGD 142.87.66 for 1 night (booked from Agoda)
+SGD 142.87 for 1 night (booked from Agoda)
 
 ## What's good
 - Location (Novena, quick access to town)
