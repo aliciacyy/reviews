@@ -15,7 +15,7 @@ Mar 2023 (2 nights)
 Good Room with King Bed
 
 ### Cost 
-SGD 257.66 for 2 nights (booked from Agoda) + SGD 47.52 (to upgrade our room from Queen to King)
+SGD 257.66 (for 2 people) + SGD 47.52 (to upgrade room from Queen to King)
 
 ## What's good
 - Location (near Bugis)
