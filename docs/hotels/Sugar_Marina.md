@@ -3,7 +3,7 @@ lang: en-US
 title: (Krabi) Sugar Marina Resort CLIFFHANGER Aonang
 ---
 
-# (Krabi) Sugar Marina Resort CLIFFHANGER Aonang
+# Sugar Marina Resort CLIFFHANGER Aonang
 
 ![img](/sugar.jpg)
 
