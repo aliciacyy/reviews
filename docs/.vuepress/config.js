@@ -24,6 +24,14 @@ export default {
             ],
           },
           {
+            text: "Indonesia",
+            link: "",
+            collapsible: true,
+            children: [
+              "/hotels/Doulos_Phos.md"
+            ],
+          },
+          {
             text: "Japan",
             link: "",
             collapsible: true,
