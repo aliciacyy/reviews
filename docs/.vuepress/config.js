@@ -28,6 +28,7 @@ export default {
             link: "",
             collapsible: true,
             children: [
+              "/hotels/The_Evitel_Resort.md",
               "/hotels/Doulos_Phos.md"
             ],
           },
