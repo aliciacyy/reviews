@@ -29,6 +29,7 @@ export default {
             collapsible: true,
             children: [
               "/hotels/The_Evitel_Resort.md",
+              "/hotels/Aston.md",
               "/hotels/Doulos_Phos.md"
             ],
           },
