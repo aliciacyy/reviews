@@ -44,6 +44,16 @@ export default {
             ],
           },
           {
+            text: "Korea",
+            link: "",
+            collapsible: true,
+            children: [
+              "/hotels/Hotel_Foret_Premier_Nampo.md",
+              "/hotels/The_First70_Hotel.md",
+              "/hotels/Hotel_Skypark_Myeongdong_III.md"
+            ],
+          },
+          {
             text: "Malaysia",
             link: "",
             collapsible: true,
