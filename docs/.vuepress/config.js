@@ -38,9 +38,12 @@ export default {
             link: "",
             collapsible: true,
             children: [
+              "/hotels/Hotel_Amanek.md",
+              "/hotels/Heiseikan_Shiosaitei.md",
               "/hotels/nine_hours.md",
-              "/hotels/Granbell.md",
-              "/hotels/Super_Hotel.md"
+              "/hotels/Karaksa_Hotel.md",
+              "/hotels/Mercure.md",
+              "/hotels/Granbell.md"
             ],
           },
           {
@@ -58,6 +61,7 @@ export default {
             link: "",
             collapsible: true,
             children: [
+              "/hotels/First_World.md",
               "/hotels/Langkapuri.md",
               "/hotels/Sunway.md"
             ],
